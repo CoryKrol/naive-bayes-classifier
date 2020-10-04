@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: bayes-classifier
+  main:
+    web-application-type: NONE
+
+logging:
+  level:
+    root: OFF
+    me.coryt.bayes: INFO
